@@ -1,10 +1,7 @@
+import "./header.css";
 
 function Header() {
-  return (
-    <div >
-        Header Test
-    </div>
-  );
+  return <div className="header">Header My First App</div>;
 }
 
 export default Header;

@@ -1,0 +1,10 @@
+.header {
+  position: fixed; /* E bën të palëvizshëm */
+  top: 0; /* Vendos header-in në krye */
+  left: 0; /* Vendos në të majtë */
+  width: 100%; /* Merr të gjithë gjerësinë */
+  background-color: #fff; /* Ngjyra e sfondit */
+  border-bottom: 1px solid #ccc; /* Kufiri në fund */
+  padding: 10px; /* Hapsira rreth header-it */
+  z-index: 1000; /* Siguron që të jetë mbi elementet e tjerë */
+}
